@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main ReactJs Project
+The first big Project using ReactJs ^^
